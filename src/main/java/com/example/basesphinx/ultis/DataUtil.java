@@ -1,7 +1,7 @@
 
 package com.example.basesphinx.ultis;
 
-import com.fpt.fis.TGS.constant.Constants;
+import com.example.basesphinx.constant.Constants;
 import lombok.NoArgsConstructor;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

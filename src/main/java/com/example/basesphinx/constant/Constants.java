@@ -40,5 +40,8 @@ public interface Constants {
         String END_KEY = ">>";
     }
 
+    public enum ERole{
+        ROLE_ADMIN, ROLE_USER, ROLE_MODERATOR;
+    }
 
 }
